@@ -1,0 +1,32 @@
+{
+    "app": {
+        "name": "GBox Research",
+        "version": "0.1.0",
+        "mode": "Personal Test"
+    },
+    "screen": {
+        "title": "GBox Research",
+        "subtitle": "Test v0.1"
+    },
+    "sections": [
+        {
+            "name": "PC Connection",
+            "status": "NOT TESTED",
+            "button": "Test Connection"
+        },
+        {
+            "name": "Input Test",
+            "status": "READY",
+            "button": "Start Test"
+        },
+        {
+            "name": "Anti-Cheat Research",
+            "status": "READY",
+            "button": "Open Test"
+        }
+    ],
+    "result": {
+        "title": "Result",
+        "defaultText": "Waiting..."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "protocol": "GBoxResearch",
+    "version": "0.1",
+    "transport": "TCP",
+    "defaultPort": 60675,
+    "message": {
+        "type": "PC_TEST",
+        "client": "GBox Research iOS Client",
+        "version": "0.1.0"
+    },
+    "response": {
+        "status": "PASS",
+        "server": "GBox Research PC Test"
+    }
+}
