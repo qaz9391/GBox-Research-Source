@@ -19,7 +19,7 @@
       "appVersion": "0.1.0",
       "appImage": "",
       "appPackage": "REPLACE_WITH_SIGNED_IPA_URL",
-      "appDescription": "Personal test application. The manifest URL must point to a publicly accessible iOS installation manifest for the user's own signed IPA."
+      "appDescription": "Personal test application for GBox Research v0.1."
     }
   ]
 }
